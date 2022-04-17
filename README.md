@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi there 👀!</h1>
 
-Hello there, I'm Felipe Sanchez Martinez. I am an Artificial Intelligence student, with a particular interest in learning data science and having fun with competitive programing.
+Hello there, I'm Felipe Sanchez Martinez. I am an Artificial Intelligence engineer student, with a particular interest in learning data science and having fun with competitive programing.
 
 ## Languages and Tools.
 <p align="left"> 
