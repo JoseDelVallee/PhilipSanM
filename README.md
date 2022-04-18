@@ -13,6 +13,7 @@ Hello there, I'm Felipe Sanchez Martinez. I am an Artificial Intelligence engine
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
 <a href="http://www.cplusplus.org/" target="_blank"> <img src="https://user-images.githubusercontent.com/99928036/163695134-9dec4f37-3289-4539-ab88-f4dc4a2ddbc2.png" alt="html5" width="47" height="47"/> </a> 
 <a target="_blank"> <img src="https://user-images.githubusercontent.com/99928036/163695184-047cf287-356e-42c6-9fa1-933c2a53761f.png" alt="html5" width="42" height="42"/> </a> 
+ <a href="https://www.javascript.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/99928036/163739003-b4a842ab-6fa7-462f-ba1e-50ed504aeaaa.png" alt="html5" width="40" height="40"/> </a> 
 </p>
 
 ## Feel free to contact me:
