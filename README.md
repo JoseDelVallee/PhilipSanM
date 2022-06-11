@@ -1,6 +1,6 @@
-
-<h1 align="center">Hi there 👀!</h1>
-
+<i>
+<h1 align="center">Some scripting, some running, some chmod’ing. 💻</h1>
+</i>
 Hello there, I'm Felipe Sanchez Martinez. I am an Artificial Intelligence engineer student, with a particular interest in learning data science and having fun with competitive programing.
 
 ## Languages and Tools.
