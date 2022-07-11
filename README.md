@@ -1,8 +1,12 @@
-<i>
-<h1 align="center">Some scripting, some running, some chmod’ing. 💻</h1>
+
+
 <div id="header" align="center">
+  <a href="https://philipsanm.github.io/">
+    <img src="https://user-images.githubusercontent.com/99928036/178292736-cb7a5739-7e9c-477a-a33f-389ede632cc4.png" alt="Twitter Badge"/>
+  </a>
   <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="100"/>
 </div>
+
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/philipsanm/">
@@ -39,7 +43,7 @@ const philipSanM = {
   favoriteColor: '#e4007c',
   favoriteFood: 'Coffee ice cream',
   dogsOrCats: 'both',
-  single: true,
+  single: true
   //LMAO
  
 }
@@ -57,10 +61,10 @@ const philipSanM = {
   <a href="https://www.python.org">
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
   </a>
-  <a href="https://twitter.com/PhilipSanM_">
+  <a href="https://reactjs.org/">
     <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
   </a>
-  <a href="https://www.instagram.com/philipsanm/">
+  <a href="https://code.visualstudio.com/">
     <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSC"/>
   </a>
   <a href="https://git-scm.com/">
@@ -84,7 +88,11 @@ const philipSanM = {
   
 </div>
 
+---
 
+### :writing_hand: Blog Posts :
+
+</i>
 
 ---
 
@@ -94,3 +102,6 @@ const philipSanM = {
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=PhilipSanM&count_private=true&theme=dark&showicons=true)]()
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PhilipSanM&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
