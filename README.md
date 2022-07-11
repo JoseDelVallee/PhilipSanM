@@ -44,7 +44,7 @@ const philipSanM = {
   fullName: 'Felipe Sanchez Martinez',
   nickname: 'Jlipe | Pipe<3 | Philip',
   age: 19,
-  country: 'MX',
+  country: 'Mx',
   birthday: '01/05/2003',
   favoriteColor: '#e4007c',
   favoriteFood: 'Coffee ice cream',
