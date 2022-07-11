@@ -23,6 +23,10 @@
   <a href="https://www.instagram.com/philipsanm/">
     <img src="https://img.shields.io/badge/instagram-pink?logo=instagram&logoColor=blue&style=for-the-badge" alt="Twitter Badge"/>
   </a>
+    </a>
+  <a href="https://www.facebook.com/profile.php?id=100081291668294">
+    <img src="https://img.shields.io/badge/facebook-blue?logo=facebook&logoColor=white&style=for-the-badge" alt="Facebook Badge"/>
+  </a>
 </div>
 <div id="Views" align = "center">
   <img src="https://komarev.com/ghpvc/?username=PhilipSanM&style=flat-square&color=blue" alt=""/>
