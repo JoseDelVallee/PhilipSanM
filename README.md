@@ -4,6 +4,8 @@
   <a href="https://philipsanm.github.io/">
     <img src="https://user-images.githubusercontent.com/99928036/178292736-cb7a5739-7e9c-477a-a33f-389ede632cc4.png" alt="Twitter Badge"/>
   </a>
+  <h1> Hey there!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" height="30"/></h1>
   <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="100"/>
 </div>
 
@@ -31,7 +33,7 @@
 ##  :cherry_blossom: About me:
 </i>
 
-<strong>Hello there</strong>, I'm Felipe Sanchez Martinez. I am an Artificial Intelligence engineer student, with a particular interest in learning data science and having fun with competitive programing.
+<strong>I'm Felipe Sanchez Martinez </strong>an Artificial Intelligence engineer student, with a particular interest in learning data science and having fun with competitive programing.
 
 ```javascript
 const philipSanM = {
