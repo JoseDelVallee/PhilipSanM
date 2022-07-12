@@ -96,18 +96,19 @@ const philipSanM = {
 
 ---
 
-### :writing_hand: Blog Posts :
+## :writing_hand: Blog Posts :
 
 </i>
 
 ---
 
-### :fire: My Stats :
+## :fire: My Stats :
+</i>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=PhilipSanM&theme=vision-friendly-dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=PhilipSanM&count_private=true&theme=vision-friendly-dark&showicons=true)]()
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PhilipSanM&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-
+---
 
