@@ -3,33 +3,39 @@
   <a href="https://philipsanm.github.io/">
     <img src="https://user-images.githubusercontent.com/99928036/180630088-4cc8aa91-83d2-410e-a944-4bb4bbd4730c.png" alt="LunaDogo"/>
   </a>
-  <h1> Hey there!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" height="30"/></h1>
-  <img src="https://user-images.githubusercontent.com/99928036/180630136-b74574e8-c1c8-4cd3-8296-f5a2c12b25f7.gif" width="100"/>
-
+  <h1>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Copse&size=28&duration=6200&color=3383F7&center=true&vCenter=true&width=426&height=80&lines=Hi+there!+%E2%9C%8C%EF%B8%8F;I'm+Felipe+%7C%7C+Philip+%7C%7C+Pipe+%F0%9F%91%BE;AI+engineering+student+%F0%9F%A4%96"/></h1>
+  <img src="https://user-images.githubusercontent.com/99928036/180630136-b74574e8-c1c8-4cd3-8296-f5a2c12b25f7.gif" width="150"/>
 </div>
 
 
-<div id="badges" align="center">
+
+<div id="bubbles" align="center">
   <a href="https://www.linkedin.com/in/philipsanm/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="linkedInbubble"/>
   </a>
   <a href="https://www.youtube.com/channel/UCMRk28DnkUTdiNdVc-ZuK_Q">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+    <img src="https://img.icons8.com/bubbles/50/000000/youtube.png" alt="youtubeBubble"/>
   </a>
   <a href="https://twitter.com/PhilipSanM_">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    <img src="https://img.icons8.com/bubbles/50/000000/twitter-circled.png" alt="twitterBubble"/>
   </a>
   <a href="https://www.instagram.com/philipsanm/">
-    <img src="https://img.shields.io/badge/instagram-pink?logo=instagram&logoColor=blue&style=for-the-badge" alt="Twitter Badge"/>
+    <img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="instagramBubble"/>
   </a>
     </a>
   <a href="https://www.facebook.com/profile.php?id=100081291668294">
-    <img src="https://img.shields.io/badge/facebook-blue?logo=facebook&logoColor=white&style=for-the-badge" alt="Facebook Badge"/>
+    <img src="https://img.icons8.com/bubbles/50/000000/facebook.png" alt="facebookBubble"/>
+  </a>
+  <a href="mailto:felipesanchezmart@gmail.com">
+    <img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="gmailBubble"/>
   </a>
 </div>
+
+
+
 <div id="Views" align = "center">
-  <img src="https://komarev.com/ghpvc/?username=PhilipSanM&style=flat-square&color=blue" alt=""/>
+  <h3>Thanks for visiting ❤️:</h3>   <img src="https://profile-counter.glitch.me/PhilipSanM/count.svg" alt="views"/>
 </div>
 
 ---
@@ -37,23 +43,42 @@
 ##  :cherry_blossom: About me:
 </i>
 
-<strong>I'm Felipe Sanchez Martinez </strong>an Artificial Intelligence engineer student from Mexico that really loves hanging out with friends🍺 and eat coffe Ice Cream 🍦 
-
+ <p><strong>I'm Felipe Sanchez Martinez </strong>an Artificial Intelligence engineer student from Mexico that really loves hanging out with friends🍺 and eat coffe Ice     Cream 🍦</p> 
+ 
+ <div id="phrase" align = "center">
+  <strong>"Siempre jalo, nunca injalo"</strong>
+</div>
 
 ```javascript
 const philipSanM = {
   fullName: 'Felipe Sanchez Martinez',
   nickname: 'Jlipe | Pipe<3 | Philip',
+  pronouns: "He" | "Him",
   age: 19,
   country: 'Mx',
   birthday: '01/05/2003',
-  favoriteColor: '#e4007c',
-  favoriteFood: 'Coffee ice cream',
-  dogsOrCats: 'both',
-  single: true
+  funFacts: {
+    favoriteColor: '#e4007c',
+    favoriteFood: 'Coffee ice cream',
+    dogsOrCats: 'both',
+    single: true,
+  },
   //LMAO
  
 }
+//       ___           ___                       ___                   ___     
+//      /\  \         /\__\          ___        /\__\      ___        /\  \                  _ 
+//     /::\  \       /:/  /         /\  \      /:/  /     /\  \      /::\  \      __   ___.--'_`.
+//    /:/\:\  \     /:/__/          \:\  \    /:/  /      \:\  \    /:/\:\  \    ( _`.'. -   'o` )  
+//   /::\~\:\  \   /::\  \ ___      /::\__\  /:/  /       /::\__\  /::\~\:\  \   _\.'_'      _.-'  
+//  /:/\:\ \:\__\ /:/\:\  /\__\  __/:/\/__/ /:/__/     __/:/\/__/ /:/\:\ \:\__\ ( \`. )    //\`   
+//  \/__\:\/:/  / \/__\:\/:/  / /\/:/  /    \:\  \    /\/:/  /    \/__\:\/:/  /  \_`-'`---'\\__,  
+//       \::/  /       \::/  /  \::/__/      \:\  \   \::/__/          \::/  /    \`        `-\  
+//        \/__/        /:/  /    \:\__\       \:\  \   \:\__\           \/__/      `               
+//                    /:/  /      \/__/        \:\__\   \/__/                   
+//                    \/__/                     \/__/                          
+     
+
 ```
 
 ---
@@ -61,7 +86,10 @@ const philipSanM = {
 ## :art: Languages and Tools.
 </i>
 
-<div id="Tools">
+<div id="Tools" align="middle">
+ <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
+    <img src="https://img.shields.io/badge/C-0078d7.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+  </a>
   <a href="https://www.javascript.com/">
     <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
   </a>
@@ -86,20 +114,47 @@ const philipSanM = {
   <a href="https://www.linux.org/">
     <img src="https://img.shields.io/badge/linux-%2320232a.svg?style=for-the-badge&logo=linux&logoColor=white" alt="Linux"/>
   </a>
+  <a href="https://parrotlinux.org/">
+    <img src="https://img.shields.io/badge/parrot_OS-483849.svg?style=for-the-badge&logo=linux&logoColor=white" alt="ParrotOs"/>
+  </a>
+  <a href="https://ubuntu.com/">
+    <img src="https://img.shields.io/badge/ubuntu-B01730.svg?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu"/>
+  </a>
   <a href="https://www.docker.com">
     <img src="https://img.shields.io/badge/Docker-%231572B6.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
   </a>
- <a href="https://www.instagram.com/philipsanm/">
-    <img src="https://img.shields.io/badge/C-0078d7.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+   <a href="https://azure.microsoft.com/en-us/">
+    <img src="https://img.shields.io/badge/azure-0098d7.svg?style=for-the-badge&logo=microsoft&logoColor=purple" alt="Azure"/>
   </a>
-  
+  <a href="https://www.ibm.com/topics/mainframe">
+    <img src="https://img.shields.io/badge/mainframe-972D83.svg?style=for-the-badge&logo=ibm&logoColor=white" alt="Mainframe"/>
+  </a>
+   <a href="https://www.ibm.com/it-infrastructure/linuxone">
+    <img src="https://img.shields.io/badge/IBMLinuxOne-353034.svg?style=for-the-badge&logo=IBM&logoColor=white" alt="IBMLinuxOne"/>
+  </a>
+   <a href="https://www.ibm.com/it-infrastructure/z/zos">
+    <img src="https://img.shields.io/badge/z/os_UNIX-A327B9.svg?style=for-the-badge&logo=ibm&logoColor=white" alt="z/OS"/>
+  </a>
+  <a href="https://www.ibm.com/db2">
+    <img src="https://img.shields.io/badge/db2-5406C1.svg?style=for-the-badge&logo=ibm&logoColor=white" alt="db2"/>
+  </a>
+  <a href="">
+    <img src="https://img.shields.io/badge/Digital_Systems-850218.svg?style=for-the-badge&logo=arduino&logoColor=white" alt="DigitalSystems"/>
+  </a>
+ 
 </div>
 
 ---
 
 ## :writing_hand: Blog Posts :
-
 </i>
+
+<div id="Posts" align="middle">
+  <i><strong>
+      まだありません。。。でもやがて発表をするのは約束した (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧
+      「I don't have a publication yet, but I will do it soon :)」 
+  </i></strong>
+</div>
 
 ---
 
