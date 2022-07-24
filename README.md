@@ -1,12 +1,12 @@
 
-
 <div id="header" align="center">
   <a href="https://philipsanm.github.io/">
-    <img src="https://user-images.githubusercontent.com/99928036/178292736-cb7a5739-7e9c-477a-a33f-389ede632cc4.png" alt="Twitter Badge"/>
+    <img src="https://user-images.githubusercontent.com/99928036/180630088-4cc8aa91-83d2-410e-a944-4bb4bbd4730c.png" alt="LunaDogo"/>
   </a>
   <h1> Hey there!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" height="30"/></h1>
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="100"/>
+  <img src="https://user-images.githubusercontent.com/99928036/180630136-b74574e8-c1c8-4cd3-8296-f5a2c12b25f7.gif" width="100"/>
+
 </div>
 
 
@@ -37,7 +37,8 @@
 ##  :cherry_blossom: About me:
 </i>
 
-<strong>I'm Felipe Sanchez Martinez </strong>an Artificial Intelligence engineer student, with a particular interest in learning data science and having fun with competitive programing.
+<strong>I'm Felipe Sanchez Martinez </strong>an Artificial Intelligence engineer student from Mexico that really loves hanging out with friends🍺 and eat coffe Ice Cream 🍦 
+
 
 ```javascript
 const philipSanM = {
