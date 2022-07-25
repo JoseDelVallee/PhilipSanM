@@ -4,7 +4,7 @@
     <img src="https://user-images.githubusercontent.com/99928036/180630088-4cc8aa91-83d2-410e-a944-4bb4bbd4730c.png" alt="LunaDogo"/>
   </a>
   <h1>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Copse&size=28&duration=6200&color=3383F7&center=true&vCenter=true&width=426&height=80&lines=Hi+there!+%E2%9C%8C%EF%B8%8F;I'm+Felipe+%7C%7C+Philip+%7C%7C+Pipe+%F0%9F%91%BE;AI+engineering+student+%F0%9F%A4%96"/></h1>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Copse&size=28&duration=4500&color=3383F7&center=true&vCenter=true&width=426&height=80&lines=Hi+there!+%E2%9C%8C%EF%B8%8F;I'm+Felipe+%7C%7C+Philip+%7C%7C+Pipe+%F0%9F%91%BE;AI+engineering+student+%F0%9F%A4%96"/></h1>
   <img src="https://user-images.githubusercontent.com/99928036/180630136-b74574e8-c1c8-4cd3-8296-f5a2c12b25f7.gif" width="150"/>
 </div>
 
