@@ -46,7 +46,7 @@
  <p><strong>I'm Felipe Sanchez Martinez </strong>an Artificial Intelligence engineer student from Mexico that really loves hanging out with friends🍺 and eat coffe Ice     Cream 🍦</p> 
  
  <div id="phrase" align = "center">
-  <strong>"Siempre jalo, nunca injalo"</strong>
+  <strong>"De Iztapalapa pa'l el mundo"</strong>
 </div>
 
 ```javascript
