@@ -151,7 +151,7 @@ const philipSanM = {
 
 <div id="Posts" align="middle">
   <i><strong>
-      まだありません。。。でもやがて発表をするのは約束した (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧
+      まだありません。。。でも近々発表をするのは約束した (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧
       「I don't have a publication yet, but I will do it soon :)」 
   </i></strong>
 </div>
